@@ -1,13 +1,21 @@
 h1{
     color:black;
   border-bottom: 50px;
+  text-align: center;
+
 }
 
     .name-highlight{
         color:chocolate;
+        text-align: center;
+       
     }
 
     .div2nd{
 color: chocolate;
 text-align: center;
+    }
+
+    p{
+      text-align: justify;
     }
